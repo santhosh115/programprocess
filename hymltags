@@ -1,0 +1,36 @@
+multimedia tag:
+audio tag- 
+	used to embed audio files in a web page without any plugins.
+
+	syntax:
+	<audio controls loop>
+	<source src=" " type="audio/mpeg">(mp3/wav/ogg)
+	</audio>
+
+	controls: controls to be displayed with the audio players
+	autoplay: the audio file will play immediately after it loads controls 
+	loop: audio file should continuously repeat
+
+	the source element enables the sepifiction of various audio files. 
+
+
+iframe: 
+	embed a webpage within another page called as INLINE Frame
+	used to display nested webpage,
+	it can appear anywhere in the document.
+	<iframe src=" " width="600px"></iframe>
+
+Etities:
+	 used to display reserved characters and space. always starts with  & and ends with ;
+	space- &nbsp;
+	less than-&lt;
+	greater thean - &gt;
+	ampersand- &amp;
+	quotation- &quot;
+	single quotation- &apos;
+	pound- &pound;
+	copy rights- &copy;
+	registration trademark- &reg;
+
+forms:
+	
